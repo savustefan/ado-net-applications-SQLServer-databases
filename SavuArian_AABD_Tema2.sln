@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavuArian_AABD_Tema2", "SavuArian_AABD_Tema2.csproj", "{A3A786CA-9B3F-4E61-B653-F619299661FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A786CA-9B3F-4E61-B653-F619299661FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A786CA-9B3F-4E61-B653-F619299661FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A786CA-9B3F-4E61-B653-F619299661FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A786CA-9B3F-4E61-B653-F619299661FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE89902C-381D-4DB2-B99F-7D4D4CE0865E}
+	EndGlobalSection
+EndGlobal
